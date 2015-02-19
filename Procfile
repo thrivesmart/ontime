@@ -1,1 +1,1 @@
-web: ./ontime
+web: go run server.go
