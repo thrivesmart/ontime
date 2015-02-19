@@ -1,1 +1,1 @@
-web: ontime
+web: ./ontime
